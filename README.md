@@ -111,12 +111,4 @@ python run_integrated_bot.py --mode backtest --all
 python run_integrated_bot.py --mode live --symbol btc
 ```
 
-## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments
-
-- Binance API for historical data
-- OpenAI for assistance in development
-- Various open-source libraries used in this project
