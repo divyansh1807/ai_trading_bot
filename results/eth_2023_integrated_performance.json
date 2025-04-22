@@ -1,0 +1,20 @@
+{
+    "final_balance": 14177.760412745169,
+    "profit": 4177.760412745169,
+    "profit_percent": 41.77760412745168,
+    "success_trades": 47,
+    "failed_trades": 36,
+    "total_trades": 83,
+    "win_rate": 56.62650602409639,
+    "max_drawdown": 100.0,
+    "sharpe_ratio": 0.0973333789292607,
+    "strategies_used": {
+        "technical": true,
+        "ml": true,
+        "sentiment": false,
+        "blockchain": false
+    },
+    "symbol": "ETH",
+    "year": "2023",
+    "backtest_date": "2025-04-22 19:14:38"
+}

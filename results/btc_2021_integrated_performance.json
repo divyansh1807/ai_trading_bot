@@ -1,0 +1,20 @@
+{
+    "final_balance": 20009.65007454525,
+    "profit": 10009.65007454525,
+    "profit_percent": 100.09650074545252,
+    "success_trades": 64,
+    "failed_trades": 44,
+    "total_trades": 108,
+    "win_rate": 59.25925925925925,
+    "max_drawdown": 100.0,
+    "sharpe_ratio": 0.13292228261897276,
+    "strategies_used": {
+        "technical": true,
+        "ml": true,
+        "sentiment": false,
+        "blockchain": false
+    },
+    "symbol": "BTC",
+    "year": "2021",
+    "backtest_date": "2025-04-22 19:14:33"
+}
